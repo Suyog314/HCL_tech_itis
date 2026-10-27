@@ -1,0 +1,9 @@
+streamlit>=1.40
+pandas>=2.2
+numpy>=1.26
+plotly>=5.20
+sqlglot>=25
+scikit-learn>=1.4
+openai>=1.40
+python-dotenv>=1.0
+pytest>=8
